@@ -1,4 +1,4 @@
-# Script-Python-para-gerenciar-dados-de-clientes
+## Script Python para gerenciar dados de clientes
 
 Criei um script que lê um arquivo de texto com dados de clientes e verifica se os campos obrigatórios (ID, Nome, Idade e CPF) estão preenchidos corretamente. Ele adiciona uma nova coluna mostrando a verificação de cada linha e uma nova coluna com a data atual, e salva o resultado em um arquivo Excel.
 Mas as funcionalidades não param por aí! Adicionei a possibilidade de converter o arquivo Excel em um arquivo JSON, gerando uma chave primária para cada linha e mantendo a indentação e caracteres especiais.
