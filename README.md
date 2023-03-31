@@ -6,3 +6,8 @@ Com o uso do script, foi possível identificar rapidamente problemas nos dados d
 Utilizei bibliotecas importantes como pandas e datetime para manipular e adicionar informações aos dados do arquivo. O pandas foi essencial para a manipulação dos dados, enquanto o datetime permitiu adicionar a data atual no novo campo do Excel.
 O script pode ser melhorado com novas verificações para garantir a integridade dos dados e para torná-lo mais eficiente no processamento de arquivos maiores.
 Em resumo, o script é uma ferramenta valiosa para gerenciar dados de clientes e pode ser útil para empresas que desejam otimizar seus processos de gestão de dados.
+
+
+
+https://user-images.githubusercontent.com/109118257/229251961-e25a5e5a-1c76-4a9e-a5a0-e8a351362f76.mp4
+
